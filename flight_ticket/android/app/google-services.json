@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74387999005",
+    "firebase_url": "https://flight-app-98e75.firebaseio.com",
+    "project_id": "flight-app-98e75",
+    "storage_bucket": "flight-app-98e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74387999005:android:c8624881cbdf0df6",
+        "android_client_info": {
+          "package_name": "com.davidlegend.flight_ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74387999005-7cj7ulrglpj6sg8gceen5b73f3h3ml7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidlegend.flight_ticket",
+            "certificate_hash": "95233b4bd74723c68ada79c4fe575b7cf4a23c6a"
+          }
+        },
+        {
+          "client_id": "74387999005-gkdmf46n36i2iatqsejb1ba9rlia6na3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpxuesGy4ylamDQ12nVdvBl-TJEFEoqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74387999005-gkdmf46n36i2iatqsejb1ba9rlia6na3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
